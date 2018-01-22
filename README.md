@@ -1,4 +1,3 @@
-$ gedit ~/.bashrc
-alias gccl="gcc -Wall -pedantic -std=c11"
-//alias g++l="g++ 
+$ gedit ~/.bashrc<br>
+alias gccl="gcc -Wall -pedantic -std=c11"<br>
 alias out="./a.out"
