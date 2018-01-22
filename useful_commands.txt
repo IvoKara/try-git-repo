@@ -1,0 +1,15 @@
+git status 
+git add . 
+git diff --staged
+git commit -a: skiping git add
+git rm --cached: rm from git 
+git log -p: diff each commit 
+           --word-diff
+        --stat
+	-pretty=oneline
+			-graph
+	-<n>: first n commits
+	--since=n. 
+	--until
+gitk
+git remote -v(url, use in the cloned repo)
