@@ -13,3 +13,7 @@ git log -p: diff each commit
 	--until
 gitk
 git remote -v(url, use in the cloned repo)
+           add <short name> <url>
+//git fetch origin: fetches any new work that has been pushed to that server
+git pull <short name or URL>
+git push <shortname> <branch>
