@@ -5,7 +5,7 @@
     $ chown
     $ wc
     
-  #jist use man 
+  #just use man 
     
   <h3>2. For shortcut gcc</h3>
   
